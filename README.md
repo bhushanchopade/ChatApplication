@@ -9,9 +9,13 @@ Create the frontend for a chat application. You can check out the mockups down b
 
 # Instructions
 -Functionality
+
 -- Assume you are a dummy logged in user.
+
 -- Use a json file to load some dummy data in the project.
+
 -- Search : conversations should be searchable by contact name.
+
 -- Left sidebar :
 --- Show all the conversations created here
 --- Each conversation should have the contact name and some text of the last message in the chat
